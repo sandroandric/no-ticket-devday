@@ -3,6 +3,6 @@
 node_modules/
 dist/
 .playwright-mcp/
-no-ticket-*.png
+/no-ticket-*.png
 .vercel
 .dev-server.log
