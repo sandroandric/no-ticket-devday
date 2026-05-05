@@ -16,6 +16,7 @@
     "public/assets/no-ticket-room-v2.png",
     "public/assets/no-ticket-pass.png"
   ],
-  "proof_route": "/submission.json",
-  "post_template": "#OpenAIDevDay2026 I built No Ticket: a generated DevDay escape room. GPT-5.5 planned/coded the game, puzzle logic, and hint judge; Image Gen created the room and final ticket artifacts. Play it here: <link>"
+  "playable_url": "https://sandroandric.github.io/no-ticket-devday/",
+  "proof_route": "https://sandroandric.github.io/no-ticket-devday/submission.json",
+  "post_template": "#OpenAIDevDay2026 I built No Ticket: a generated DevDay escape room. GPT-5.5 planned/coded the game, puzzle logic, and hint judge; Image Gen created the room and final ticket artifacts. Play it here: https://sandroandric.github.io/no-ticket-devday/"
 }
