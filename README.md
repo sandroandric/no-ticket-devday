@@ -27,6 +27,7 @@ npm test
 ## Model Roles
 
 - GPT-5.5: concept selection, puzzle system, React/Vite implementation, hints,
-  verdicts, and proof manifest.
+  verdicts, and proof manifest. The final proof metadata includes a Responses
+  API call to `gpt-5.5-2026-04-23` (`resp_0fc7a7143244605d0069fa4d4d09b081969be477cbd2a50bd0`).
 - Image Gen: generated ticket-office playfield concept and final unlock pass.
 - Codex: implementation, iteration, testing, and browser verification.
