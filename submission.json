@@ -6,6 +6,12 @@
     "reasoning_and_build": "GPT-5.5",
     "visual_generation": "Image Gen"
   },
+  "gpt55_response": {
+    "response_id": "resp_0fc7a7143244605d0069fa4d4d09b081969be477cbd2a50bd0",
+    "model": "gpt-5.5-2026-04-23",
+    "judge_verdict": "Strong contender: clever puzzle flow, polished pacing, and memorable use of GPT-5.5 for adaptive riddles plus Image Gen for visual clues.",
+    "hint_style": "Progressive, spoiler-light hints that nudge players from observation to deduction without giving away the lock code."
+  },
   "playable_requirements": {
     "requires_login": false,
     "requires_api_key": false,
