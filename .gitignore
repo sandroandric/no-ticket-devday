@@ -1,0 +1,8 @@
+/.docdex/
+/.docdex-state/
+node_modules/
+dist/
+.playwright-mcp/
+/no-ticket-*.png
+.vercel
+.dev-server.log

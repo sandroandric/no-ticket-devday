@@ -1,0 +1,21 @@
+{
+  "title": "No Ticket",
+  "hashtag": "#OpenAIDevDay2026",
+  "short_note": "Built No Ticket, a generated DevDay escape room. GPT-5.5 planned and coded the game, puzzle logic, hints, and proof screen; Image Gen created the ticket-office room and final unlock pass.",
+  "models": {
+    "reasoning_and_build": "GPT-5.5",
+    "visual_generation": "Image Gen"
+  },
+  "playable_requirements": {
+    "requires_login": false,
+    "requires_api_key": false,
+    "seeded_assets": true,
+    "estimated_play_time_seconds": 90
+  },
+  "image_gen_assets": [
+    "public/assets/no-ticket-room-v2.png",
+    "public/assets/no-ticket-pass.png"
+  ],
+  "proof_route": "/submission.json",
+  "post_template": "#OpenAIDevDay2026 I built No Ticket: a generated DevDay escape room. GPT-5.5 planned/coded the game, puzzle logic, and hint judge; Image Gen created the room and final ticket artifacts. Play it here: <link>"
+}
